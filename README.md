@@ -1,1 +1,1 @@
-Este projeto é paseado no spotify
+Este projeto baseado no spotify
