@@ -4,7 +4,6 @@ Este projeto é um clone inspirado na interface e funcionalidades principais do 
 
 ## 🌐 Demonstração
 
-🔗 [Acesse o site aqui](/Users/romil/sportfy/sportfy/index.html)  
 📸 
 ![Captura de tela 2025-06-01 140326](https://github.com/user-attachments/assets/1ac26771-8789-447a-9851-160df36468de)
 
