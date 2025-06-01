@@ -1,4 +1,4 @@
-# 🎧 Clone Spotify - Web App
+# 🎧 Clone Spotify - Web 
 
 Este projeto é um clone inspirado na interface e funcionalidades principais do Spotify, desenvolvido como estudo de tecnologias web modernas. O objetivo é proporcionar uma experiência parecida com o Spotify: ouvir músicas, gerenciar playlists e navegar por álbuns e artistas.
 
